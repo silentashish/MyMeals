@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "54858467880",
+    "project_id": "buskoticket-58f6f",
+    "storage_bucket": "buskoticket-58f6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54858467880:android:b089daea93c2f5f283c31d",
+        "android_client_info": {
+          "package_name": "com.buskoticket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54858467880-8lffk0rltc8l0pfr09c9mjtb8s00t752.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3N7TKqB1MXNA6kk5XbgoKLg_o_TTUmlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54858467880-8lffk0rltc8l0pfr09c9mjtb8s00t752.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
